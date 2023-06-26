@@ -34,6 +34,9 @@ document.addEventListener('click', (element) => {
 
 });
 
-console.log(galleryItems);
+//console.log(galleryItems);
 //import * as basicLightbox from 'basiclightbox'
+
+
+
 
